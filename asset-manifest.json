@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FinstopCalender/static/css/main.b7acfc0d.css",
+    "main.js": "/FinstopCalender/static/js/main.4686dc46.js",
+    "index.html": "/FinstopCalender/index.html",
+    "main.b7acfc0d.css.map": "/FinstopCalender/static/css/main.b7acfc0d.css.map",
+    "main.4686dc46.js.map": "/FinstopCalender/static/js/main.4686dc46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7acfc0d.css",
+    "static/js/main.4686dc46.js"
+  ]
+}
